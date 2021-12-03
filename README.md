@@ -12,7 +12,7 @@
 
 ~~guntur~~
 
-* colour
+* colour *
 * red
 * blue
 * yellow
