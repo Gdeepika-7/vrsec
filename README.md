@@ -32,5 +32,5 @@ s.no|name|emojicode
 ----|----|---------
 1|Ramarao|:grinning:
 2|Kavitha|:smile:
-3|Deepika|:smile
+3|Deepika|:smile:
 4|Avinash|:grinning:
