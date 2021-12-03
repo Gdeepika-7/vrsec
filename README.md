@@ -12,7 +12,12 @@
 
 ~~guntur~~
 
-* colour *
-* red
-* blue
-* yellow
+* colour
+ * red
+ * blue
+ * yellow
+ 
+ 1.Vegetables
+   1.potato
+   2.tomato
+   3.brinjal
