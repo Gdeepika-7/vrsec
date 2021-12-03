@@ -11,3 +11,5 @@
 ***vijayawada***
 
 ~~guntur~~
+
+* colour * [1,2,3]
